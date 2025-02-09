@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer | Fullstack MERN and MEAN developer<br>Content Creator<br><br>Ready to get hired<br>I'm open to freelancing<br>Collaborate with me on your project<br>
+Software Developer | Fullstack MERN and MEAN developer<br><br>Ready to get hired<br>I'm open to freelancing<br>Collaborate with me on your project<br>
 
 
 ## 🌐 Socials:
